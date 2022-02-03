@@ -1,5 +1,4 @@
-const BotDetails = require("../DiscordBotCreator/config/config");
-
-const LSRPDB = [
-    {name: BotDetails.Name, Author: BotDetails.DiscordUsername}
-]
+const DiscordBotCreatorDetails = {
+    Name: 'DBC',
+    version: '1.0.0'
+}
