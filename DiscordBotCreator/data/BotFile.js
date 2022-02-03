@@ -1,0 +1,1 @@
+const Discord = require('discord.js');const client = new Discord.Client({intents: ['GUILDS', 'GUILD_MESSAGES']});client.on('ready',()=>{console.log('undefined is starting')});client.on('message',(msg)=>{if(msg.content==='undefinedping'){msg.reply('Pong!')}});client.login(undefined)

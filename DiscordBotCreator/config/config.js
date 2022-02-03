@@ -1,5 +1,3 @@
-const CreateBot = require("../DBC")
-
 const BotDetails = {
     Name: 'Test || Bot Name',
     DiscordServerLink: 'ServerLink',
@@ -7,5 +5,6 @@ const BotDetails = {
     BotPrefix: '!',
     BotToken: 'mxcfsdklnfn - A Token'
 }
-CreateBot('Unknown')
+const CreateBot = require('../DBC')
+CreateBot('data')
 module.exports = BotDetails
