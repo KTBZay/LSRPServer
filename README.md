@@ -6,3 +6,7 @@
 
 # Update 2
  - Added a bot creator for the users for external use.
+
+# Update 3
+ - Created bot functions
+ - Fixed bugs through out the system
