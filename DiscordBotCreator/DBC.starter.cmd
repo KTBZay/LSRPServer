@@ -1,2 +1,2 @@
-node config\config.js
+node setup.js
 pause
