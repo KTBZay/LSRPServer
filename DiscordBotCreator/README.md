@@ -1,5 +1,5 @@
 # Discord Bot Creator, By KTB Zay
-- Version 1.0.0 
+- Version 1.0.1
 - Want to create a discord bot without the need of code? use my software that creates a discord bot for you!.
 
 # Get started
