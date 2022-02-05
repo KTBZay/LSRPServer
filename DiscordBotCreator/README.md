@@ -4,7 +4,7 @@
 
 # Get started
  To start you must install node.js you can download this at nodejs.com.
-    - Install Discord.js: npm i discord.js
+    - Install Discord.js: npm i discord.js or do npm i
     - Edit the config in the [config] folder
     - Click [DBC.starter.cmd] this will install your bot.
 
