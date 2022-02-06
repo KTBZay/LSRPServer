@@ -1,0 +1,388 @@
+
+================================================================
+======== Log Rotated - 2/6/2022, 2:28:57 PM                     
+================================================================
+
+================================================================
+======== FXServer Starting - 2/6/2022, 2:29:02 PM               
+================================================================
+[    c-scripting-core] [0mCreating script environments for _cfx_internal
+[ citizen-server-impl] Scanning resources.
+[    c-resources-core] Resource loading for challenger failed:
+[    c-resources-core] Could not open resource metadata file - no such file.
+[ citizen-server-impl] Found 109 resources.
+[ citizen-server-impl] Some resources have an outdated resource manifest:
+[ citizen-server-impl]     - GangsterDraw
+[38;5;73m[ citizen-server-impl]     - newtons-speedo
+[ citizen-server-impl] 
+[ citizen-server-impl] Please update these resources.
+[          svadhesive] [0mAuthenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 4.11.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] [97mCreating script environments for mapmanager
+[ citizen-server-impl] Started resource mapmanager
+[    c-scripting-core] [97mCreating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[ citizen-server-impl] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for rconlog
+[ citizen-server-impl] Started resource rconlog
+[ citizen-server-impl] Stopping resource sessionmanager
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for mysql-async
+[ citizen-server-impl] Started resource mysql-async
+[    c-scripting-core] Creating script environments for vMenu
+[        script:vMenu] Instantiated instance of script vMenuServer.BanManager.
+[        script:vMenu] Instantiated instance of script vMenuServer.MainServer.
+[ citizen-server-impl] [97mStarted resource vMenu
+[    c-scripting-core] Creating script environments for fivepd
+[       script:fivepd] Instantiated instance of script HjGl21xmnGv62Xl120Qtr䤥㱦㘢㏖�㌛㌩㿒䘞エ䙧䬧㻟䨺䕻䧬㕤掠㫟�䮘�⤌䰋⎅㪛㸟㽈䘐㲈䱜㗝䑚.
+[       script:fivepd] Instantiated instance of script HjGl21xmnGv62Xl120Qtr䤥㱦㘢㏖�㌛㌩㿒䘞エ䙧䬧㻟䨺䕻䧬㕤掠㫟�䮘�⤌䰋⎅㪛㸟㽈䘐㲈䱜㗝䑥.
+[       script:fivepd] [ FivePD ] [93m==== Validating Config Files ====
+[       script:fivepd] [ FivePD ] Validated `callouts.json`.
+[       script:fivepd] [ FivePD ][32m Validated `charges.json`.
+[       script:fivepd] [ FivePD ] Validated `disabled_callouts.json`.
+[       script:fivepd] [ Five[94mPD ] Validated `items.json`.
+[       script:fivepd] [ FivePD ] Validated `vehicles.json`.
+[       script:fivepd] [ FivePD ] Validated `loadouts.json`.
+[       script:fivepd] [ FivePD ] Validated `coordinates.json`.
+[       script:fivepd] [ FivePD ] Validated `menu.json`.
+[       script:fivepd] [ FivePD ] Validated `questions.json`.
+[       script:fivepd] [ FivePD ] Validated `scene_management.json`.
+[       script:fivepd] [0m[ FivePD ] Validated `garage.json`.
+[       script:fivepd] [ FivePD ] Validated `config.json`.
+[       script:fivepd] [ FivePD ][32m Selected database type: SQLite
+[       script:fivepd] [ FivePD ] Loaded charges.json
+[       script:fivepd] Instantiated instance of script HjGl21xmnGv62Xl120Qtr䤥㱦㘢㏖�㌛㌩㿒䘞エ䙧䬧㻟䨺䕻䧬㕤掠㫟�䮘�⤌䰋⎅㪛㸟㽈䘐㲈䱜㗝䑧.
+[       script:fivepd] Instantiated instance of script HjGl21xmnGv62Xl120Qtr䤥㱦㘢㏖�㌛㌩㿒䘞エ䙧䬧㻟䨺䕻䧬㕤掠㫟�䮘�⤌䰋⎅㪛㸟㽈䘐㲈䱜㗝䑸.
+[       script:fivepd] Instantiated instance of script HjGl21xmnGv62Xl120Qtr䤥㱦㘢㏖�㌛㌩㿒䘞エ䙧䬧㻟䨺䕻䧬㕤掠㫟�䮘�⤌䰋⎅㪛㸟㽈䘐㲈䱜㗝䑻+HjGl21xmnGv62Xl120Qtr㩥㺴䮏䆊䝔㸃㋝㏨䂠䲏㝯䤖�䙼�㧵㥱㈽䉚�謁䐆䓜㺫㬈䰆䅳㰽䋝.
+[       script:fivepd] Instantiated instance of script HjGl21xmnGv62Xl120Qtr䤥㱦㘢㏖�㌛㌩㿒䘞エ䙧䬧㻟䨺䕻䧬㕤掠㫟�䮘�⤌䰋⎅㪛㸟㽈䘐㲈䱜㗝䒀.
+[ citizen-server-impl] Started resource fivepd
+[ citizen-server-impl] [94mAsset LSPDpack/16exp.yft uses 21.8 MiB of virtual memory.
+[ citizen-server-impl] Asset LSPDpack/16exp.ytd uses 102.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] [0mAsset LSPDpack/16exp_hi.yft uses 21.8 MiB of virtual memory.
+[ citizen-server-impl] Asset LSPDpack/18charger.yft uses 17.8 MiB of virtual memory.
+[ citizen-server-impl] Asset LSPDpack/18charger.ytd uses 69.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset LSPDpack/18charger_hi.yft uses 17.8 MiB of virtual memory.
+[ citizen-server-impl] Asset LSPDpack/19hoe.yft uses 22.8 MiB of virtual memory.
+[ citizen-server-impl] Asset LSPDpack/19hoe.ytd uses 100.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset LSPDpack/19hoe_hi.yft uses 22.8 MiB of virtual memory.
+[ citizen-server-impl] Asset LSPDpack/camaro.yft uses 16.4 MiB of virtual memory.
+[ citizen-server-impl] Asset LSPDpack/camaro.ytd uses 112.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset LSPDpack/camaro_hi.yft uses 16.4 MiB of virtual memory.
+[ citizen-server-impl] [0mAsset LSPDpack/cvpi.ytd uses 39.5 MiB of physical memory.
+[ citizen-server-impl] Asset LSPDpack/tau.ytd uses 54.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] [0mStarted resource LSPDpack
+[ citizen-server-impl] Asset NForce-Pack/NF1.ytd uses 142.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset NForce-Pack/NF10.yft uses 17.4 MiB of virtual memory.
+[ citizen-server-impl] Asset NForce-Pack/NF10.ytd uses 104.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset NForce-Pack/NF10_hi.yft uses 17.4 MiB of virtual memory.
+[ citizen-server-impl] [0mAsset NForce-Pack/NF2.yft uses 17.1 MiB of virtual memory.
+[ citizen-server-impl] [0mAsset NForce-Pack/NF2.ytd uses 196.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset NForce-Pack/NF2_hi.yft uses 17.1 MiB of virtual memory.
+[ citizen-server-impl] Asset NForce-Pack/NF3.yft uses 16.8 MiB of virtual memory.
+[ citizen-server-impl] Asset NForce-Pack/NF3.ytd uses 158.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset NForce-Pack/NF3_hi.yft uses 16.8 MiB of virtual memory.
+[ citizen-server-impl] Asset NForce-Pack/NF4.yft uses 22.0 MiB of virtual memory.
+[ citizen-server-impl] Asset NForce-Pack/NF4.ytd uses 126.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset NForce-Pack/NF4_hi.yft uses 22.0 MiB of virtual memory.
+[ citizen-server-impl] [0mAsset NForce-Pack/NF5.yft uses 20.5 MiB of virtual memory.
+[ citizen-server-impl] [0mAsset NForce-Pack/NF5.ytd uses 158.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset NForce-Pack/NF5_hi.yft uses 20.5 MiB of virtual memory.
+[ citizen-server-impl] Asset NForce-Pack/NF6.yft uses 18.2 MiB of virtual memory.
+[ citizen-server-impl] Asset NForce-Pack/NF6.ytd uses 152.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset NForce-Pack/NF6_hi.yft uses 18.2 MiB of virtual memory.
+[ citizen-server-impl] Asset NForce-Pack/NF7.yft uses 18.9 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset NForce-Pack/NF7.ytd uses 94.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset NForce-Pack/NF7_hi.yft uses 18.9 MiB of virtual memory.
+[ citizen-server-impl] [0mAsset NForce-Pack/NF8.yft uses 30.7 MiB of virtual memory.
+[ citizen-server-impl] Asset NForce-Pack/NF8.ytd uses 120.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset NForce-Pack/NF8_hi.yft uses 30.7 MiB of virtual memory.
+[ citizen-server-impl] Asset NForce-Pack/NF9.yft uses 18.9 MiB of virtual memory.
+[ citizen-server-impl] Asset NForce-Pack/NF9.ytd uses 118.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset NForce-Pack/NF9_hi.yft uses 18.9 MiB of virtual memory.
+[ citizen-server-impl] Started resource NForce-Pack
+[ citizen-server-impl] Asset BCSO_Pack/BCSO1.yft uses 22.5 MiB of virtual memory.
+[ citizen-server-impl] [91mAsset BCSO_Pack/BCSO1.ytd uses 78.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset BCSO_Pack/BCSO1_hi.yft uses 22.5 MiB of virtual memory.
+[ citizen-server-impl] Asset BCSO_Pack/BCSO2.yft uses 28.5 MiB of virtual memory.
+[ citizen-server-impl] Asset BCSO_Pack/BCSO2.ytd uses 114.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset BCSO_Pack/BCSO2_hi.yft uses 28.5 MiB of virtual memory.
+[ citizen-server-impl] Asset BCSO_Pack/BCSO3.yft uses 21.0 MiB of virtual memory.
+[ citizen-server-impl] Asset BCSO_Pack/BCSO3.ytd uses 82.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset BCSO_Pack/BCSO3_hi.yft uses 21.0 MiB of virtual memory.
+[ citizen-server-impl] Asset BCSO_Pack/BCSO4.yft uses 24.1 MiB of virtual memory.
+[ citizen-server-impl] Asset BCSO_Pack/BCSO4.ytd uses 138.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset BCSO_Pack/BCSO4_hi.yft uses 24.1 MiB of virtual memory.
+[ citizen-server-impl] Asset BCSO_Pack/BCSO5.yft uses 17.1 MiB of virtual memory.
+[ citizen-server-impl] Asset BCSO_Pack/BCSO5.ytd uses 94.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset BCSO_Pack/BCSO5_hi.yft uses 17.1 MiB of virtual memory.
+[ citizen-server-impl] Started resource BCSO_Pack
+[ citizen-server-impl] Asset Durastar/pumper.bak uses 18.2 MiB of virtual memory.
+[ citizen-server-impl] [0mAsset Durastar/pumper.yft uses 18.2 MiB of virtual memory.
+[ citizen-server-impl] Asset Durastar/pumper.ytd uses 102.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset Durastar/pumper_hi.bak uses 18.2 MiB of virtual memory.
+[ citizen-server-impl] Started resource Durastar
+[ citizen-server-impl] [94mAsset Ferrara/ferrara.yft uses 22.2 MiB of virtual memory.
+[ citizen-server-impl] Asset Ferrara/ferrara.ytd uses 74.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] [0mAsset Ferrara/ferrara_hi.yft uses 22.2 MiB of virtual memory.
+[ citizen-server-impl] Started resource Ferrara
+[ citizen-server-impl] [0mAsset Kodiak/gmc.bak uses 17.8 MiB of virtual memory.
+[ citizen-server-impl] Asset Kodiak/gmc.yft uses 17.8 MiB of virtual memory.
+[ citizen-server-impl] Asset Kodiak/gmc.ytd uses 28.5 MiB of physical memory.
+[ citizen-server-impl] [0mAsset Kodiak/gmc_hi.bak uses 25.5 MiB of virtual memory.
+[ citizen-server-impl] Started resource Kodiak
+[ citizen-server-impl] Asset Md902/md902.yft uses 19.8 MiB of virtual memory.
+[ citizen-server-impl] Asset Md902/md902.ytd uses 96.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset Md902/md902_hi.yft uses 19.2 MiB of virtual memory.
+[ citizen-server-impl] Started resource Md902
+[ citizen-server-impl] Started resource GangsterDraw
+[ citizen-server-impl] Asset Spartan/spartan.bak uses 22.8 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset Spartan/spartan.yft uses 22.8 MiB of virtual memory.
+[ citizen-server-impl] [0mAsset Spartan/spartan.ytd uses 104.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] [0mAsset Spartan/spartan_hi.bak uses 22.8 MiB of virtual memory.
+[ citizen-server-impl] Asset Spartan/spartan_hi.yft uses 19.8 MiB of virtual memory.
+[ citizen-server-impl] Started resource Spartan
+[ citizen-server-impl] Asset redeye/redeye.ytd uses 48.0 MiB of physical memory.
+[ citizen-server-impl] Asset redeye/redeye2_hi.yft uses 23.4 MiB of virtual memory.
+[ citizen-server-impl] Asset redeye/redeye3_hi.yft uses 22.8 MiB of virtual memory.
+[ citizen-server-impl] Asset redeye/redeye_hi.yft uses 21.4 MiB of virtual memory.
+[ citizen-server-impl] Started resource redeye
+[    c-scripting-core] Creating script environments for RPCCPack
+[ citizen-server-impl] Started resource RPCCPack
+[ citizen-server-impl] [0mAsset charger/NixpyCharger21.yft uses 20.0 MiB of virtual memory.
+[ citizen-server-impl] Asset charger/NixpyCharger21.ytd uses 63.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] [0mAsset charger/NixpyCharger21_hi.yft uses 20.0 MiB of virtual memory.
+[ citizen-server-impl] Started resource charger
+[ citizen-server-impl] Asset cullinan_kpym/cullinan.yft uses 26.2 MiB of virtual memory.
+[ citizen-server-impl] Asset cullinan_kpym/cullinan.ytd uses 42.5 MiB of physical memory.
+[ citizen-server-impl] [0mAsset cullinan_kpym/cullinan_hi.yft uses 17.0 MiB of virtual memory.
+[ citizen-server-impl] [0mStarted resource cullinan_kpym
+[ citizen-server-impl] Asset gle63s/gle21.yft uses 21.0 MiB of virtual memory.
+[ citizen-server-impl] Asset gle63s/gle21.ytd uses 26.0 MiB of physical memory.
+[ citizen-server-impl] Asset gle63s/gle21_hi.yft uses 20.2 MiB of virtual memory.
+[ citizen-server-impl] Started resource gle63s
+[ citizen-server-impl] Asset jeepSrt/hpe1000.yft uses 27.5 MiB of virtual memory.
+[ citizen-server-impl] Asset jeepSrt/hpe1000.ytd uses 38.0 MiB of physical memory.
+[ citizen-server-impl] [0mAsset jeepSrt/hpe1000_hi.yft uses 27.2 MiB of virtual memory.
+[ citizen-server-impl] Started resource jeepSrt
+[ citizen-server-impl] Asset Rak_c63s/c63s.ytd uses 30.0 MiB of physical memory.
+[ citizen-server-impl] Started resource Rak_c63s
+[ citizen-server-impl] Started resource LSC
+[ citizen-server-impl] Asset e63amg/e63amg.ytd uses 38.0 MiB of physical memory.
+[ citizen-server-impl] [0mStarted resource e63amg
+[ citizen-server-impl] Started resource gasstation-ext
+[ citizen-server-impl] Started resource mrpd-ext
+[ citizen-server-impl] Started resource newtons-speedo
+[ citizen-server-impl] Started resource sandydui
+[ citizen-server-impl] Started resource fivem-lsm
+[ citizen-server-impl] Started resource Senora-Freeway-Dui
+[ citizen-server-impl] Asset NSR/w_ar_carbinerifle+hi.ytd uses 62.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset NSR/w_ar_carbinerifle.ytd uses 62.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Started resource NSR
+[ citizen-server-impl] Asset ak/w_ar_assaultrifle+hi.ytd uses 96.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ak/w_ar_assaultrifle.ytd uses 96.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Started resource ak
+[ citizen-server-impl] Started resource Arma
+[ citizen-server-impl] Started resource Glock18C
+[ citizen-server-impl] Asset P226R_FM/w_pi_pistol.ytd uses 24.0 MiB of physical memory.
+[ citizen-server-impl] Asset P226R_FM/w_pi_pistol_luxe.ytd uses 20.0 MiB of physical memory.
+[ citizen-server-impl] Started resource P226R_FM
+[    c-scripting-core] Creating script environments for cron
+[ citizen-server-impl] Started resource cron
+[ citizen-server-impl] [0mStarted resource skinchanger
+[    c-scripting-core] [0mCreating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[ citizen-server-impl] Started resource esx_menu_default
+[ citizen-server-impl] Started resource esx_menu_dialog
+[ citizen-server-impl] Started resource esx_menu_list
+[38;5;161m[    c-scripting-core] Creating script environments for esx_skin
+[ citizen-server-impl] Started resource esx_skin
+[    c-scripting-core] Creating script environments for instance
+[ citizen-server-impl] [0mStarted resource instance
+[    c-scripting-core] Creating script environments for esx_rpchat
+[ citizen-server-impl] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_phone
+[ citizen-server-impl] Started resource esx_phone
+[ citizen-server-impl] Started resource esx_voice
+[    c-scripting-core] [0mCreating script environments for esx_sit
+[ citizen-server-impl] Started resource esx_sit
+[ citizen-server-impl] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[ citizen-server-impl] Started resource esx_addonaccount
+[38;5;161m[    c-scripting-core] Creating script environments for esx_addoninventory
+[ citizen-server-impl] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_datastore
+[ citizen-server-impl] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_property
+[ citizen-server-impl] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_garage
+[ citizen-server-impl] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] Started resource esx_society
+[    c-scripting-core] [0mCreating script environments for esx_service
+[ citizen-server-impl] [0mStarted resource esx_service
+[    c-scripting-core] Creating script environments for esx_billing
+[ citizen-server-impl] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_license
+[ citizen-server-impl] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[ citizen-server-impl] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_status
+[38;5;73m[ citizen-server-impl] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[ citizen-server-impl] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[ citizen-server-impl] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_shops
+[38;5;73m[ citizen-server-impl] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[ citizen-server-impl] Started resource esx_weaponshop
+[    c-scripting-core] [0mCreating script environments for esx_clotheshop
+[ citizen-server-impl] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_barbershop
+[ citizen-server-impl] Started resource esx_barbershop
+[    c-scripting-core] [0mCreating script environments for esx_accessories
+[ citizen-server-impl] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[ citizen-server-impl] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_boat
+[ citizen-server-impl] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_jobs
+[ citizen-server-impl] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_joblisting
+[ citizen-server-impl] Started resource esx_joblisting
+[ citizen-server-impl] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_atm
+[ citizen-server-impl] Started resource esx_atm
+[    c-scripting-core] Creating script environments for esx_drugs
+[ citizen-server-impl] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_holdup
+[ citizen-server-impl] Started resource esx_holdup
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[ citizen-server-impl] Started resource esx_ambulancejob
+[38;5;161m[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_bankerjob
+[ citizen-server-impl] Started resource esx_bankerjob
+[    c-scripting-core] Creating script environments for esx_realestateagentjob
+[ citizen-server-impl] Started resource esx_realestateagentjob
+[    c-scripting-core] Creating script environments for esx_taxijob
+[ citizen-server-impl] Started resource esx_taxijob
+[  script:mysql-async] [mysql-async] [ERROR] connect ETIMEDOUT
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[   script:mapmanager] Started map fivem-map-skater
+[ citizen-server-impl] Started resource fivem-map-skater
+[  script:mysql-async] [mysql-async] [INFO] [es_extended] Stored [0] : UPDATE users SET `accounts` = ?, `job` = ?, `job_grade` = ?, `group` = ?, `position` = ?, `inventory` = ?, `loadout` = ? WHERE `identifier` = ?
+[  script:mysql-async] [mysql-async] [INFO] [es_extended] Stored [1] : INSERT INTO `users` SET `accounts` = ?, `identifier` = ?, `group` = ?
+[  script:mysql-async] [mysql-async] [INFO] [es_extended] Stored [2] : SELECT `accounts`, `job`, `job_grade`, `group`, `position`, `inventory`, `skin`, `loadout`, `firstname`, `lastname`, `dateofbirth`, `sex`, `height` FROM `users` WHERE identifier = ?
+[ citizen-server-impl] server thread hitch warning: timer interval of 223 milliseconds
+[  script:mysql-async] [97m[MySQL] [ERROR] [es_extended] An error happens for query "SELECT * FROM items : []": connect ECONNREFUSED 127.0.0.1:3306
+[  script:mysql-async] [MySQL] [ERROR] [es_extended] An error happens for query "SELECT * FROM jobs : []": connect ECONNREFUSED 127.0.0.1:3306
+[  script:mysql-async] [MySQL] [ERROR] [esx_addonaccount] An error happens for query "SELECT * FROM addon_account : []": connect ECONNREFUSED 127.0.0.1:3306
+[  script:mysql-async] [MySQL] [ERROR] [esx_addoninventory] An error happens for query "SELECT * FROM items : []": connect ECONNREFUSED 127.0.0.1:3306
+[  script:mysql-async] [MySQL] [ERROR] [esx_datastore] An error happens for query "SELECT * FROM datastore : []": connect ECONNREFUSED 127.0.0.1:3306
+[  script:mysql-async] [MySQL] [ERROR] [esx_society] An error happens for query "SELECT * FROM jobs : []": connect ECONNREFUSED 127.0.0.1:3306
+[  script:mysql-async] [MySQL] [ERROR] [esx_weaponshop] An error happens for query "SELECT * FROM weashops : []": connect ECONNREFUSED 127.0.0.1:3306
+[  script:mysql-async] [MySQL] [ERROR] [esx_vehicleshop] An error happens for query "SELECT * FROM `vehicle_categories` : []": connect ECONNREFUSED 127.0.0.1:3306
+[  script:mysql-async] [MySQL] [ERROR] [esx_boat] An error happens for query "UPDATE owned_vehicles SET `stored` = true WHERE `stored` = false AND type = ? : ["boat"]": connect ECONNREFUSED 127.0.0.1:3306
+[  script:mysql-async] [MySQL] [ERROR] [esx_joblisting] An error happens for query "SELECT name, label FROM jobs WHERE whitelisted = ? : [false]": connect ECONNREFUSED 127.0.0.1:3306
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/common.lua:32: bad argument #1 to 'for iterator' (table expected, got nil)
+[  script:es_extended] > ref (@es_extended/server/common.lua:32)
+[  script:es_extended] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[  script:mysql-async] 
+[  script:mysql-async] 
+[  script:mysql-async] 
+[script:esx_addonacco] SCRIPT ERROR: @esx_addonaccount/server/main.lua:6: attempt to get length of a nil value (local 'result')
+[script:esx_addonacco] > callback (@esx_addonaccount/server/main.lua:6)
+[script:esx_addonacco] > fn (@mysql-async/lib/MySQL.lua:226)
+[script:esx_addoninve] SCRIPT ERROR: @esx_addoninventory/server/main.lua:7: attempt to get length of a nil value (local 'items')
+[script:esx_addoninve] > callback (@esx_addoninventory/server/main.lua:7)
+[script:esx_addoninve] > fn (@mysql-async/lib/MySQL.lua:226)
+[script:esx_datastore] SCRIPT ERROR: @esx_datastore/server/main.lua:6: attempt to get length of a nil value (local 'result')
+[script:esx_datastore] > callback (@esx_datastore/server/main.lua:6)
+[script:esx_datastore] > fn (@mysql-async/lib/MySQL.lua:226)
+[  script:esx_society] SCRIPT ERROR: @esx_society/server/main.lua:15: attempt to get length of a nil value (local 'result')
+[  script:esx_society] > callback (@esx_society/server/main.lua:15)
+[  script:esx_society] > fn (@mysql-async/lib/MySQL.lua:226)
+[  script:mysql-async] [MySQL] [ERROR] [esx_vehicleshop] An error happens for query "SELECT * FROM `vehicles` : []": connect ECONNREFUSED 127.0.0.1:3306
+[script:esx_vehiclesh] SCRIPT ERROR: @esx_vehicleshop/server/main.lua:42: bad argument #1 to 'for iterator' (table expected, got nil)
+[script:esx_vehiclesh] > GetVehiclesAndCategories (@esx_vehicleshop/server/main.lua:42)
+[script:esx_vehiclesh] > ref (@esx_vehicleshop/server/main.lua:35)
+[script:esx_vehiclesh] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://ruben-ribeiro-6mpvpj.users.cfx.re/
+[ citizen-server-impl] -- [server notice: tebex_not_set]
+[ citizen-server-impl] ================
+[ citizen-server-impl] Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
+[ citizen-server-impl] ================
+[ citizen-server-impl] [0m[0m
+> txaEvent "adminsUpdated" "[]"
+[  script:mysql-async] [0m[MySQL] [ERROR] [esx_property] An error happens for query "SELECT * FROM `properties` : []": connect ECONNREFUSED 127.0.0.1:3306
+[ script:esx_property] SCRIPT ERROR: @esx_property/server/main.lua:65: attempt to get length of a nil value (local 'properties')
+[ script:esx_property] > ref (@esx_property/server/main.lua:65)
+[ script:esx_property] > <unknown> (@mysql-async/mysql-async.js:15543)
+[  script:mysql-async] 
+[     script:RPCCPack]  
+[     script:RPCCPack]     ▒  
+[     script:RPCCPack]     ▒                                __
+[     script:RPCCPack]     ▒                              .d$$b
+[     script:RPCCPack]     ▒                            .' TO$;\
+[     script:RPCCPack]     ▒                           /  : TP._;
+[     script:RPCCPack]     ▒                          / _.;  :Tb|
+[     script:RPCCPack]     ▒                         /   /   ;j$j
+[     script:RPCCPack]     ▒                     _.-"       d$$$$
+[     script:RPCCPack]     ▒                   .' ..       d$$$$;
+[     script:RPCCPack]     ▒                  /  /P'      d$$$$P. |\
+[     script:RPCCPack]     ▒                 /   "      .d$$$P' |\^"l
+[     script:RPCCPack]     ▒               .'           `T$P^"""""  :
+[     script:RPCCPack]     ▒           ._.'      _.'                ;
+[     script:RPCCPack]     ▒        `-.-".-'-' ._.       _.-"    .-"
+[     script:RPCCPack]     ▒      `.-" _____  ._              .-"
+[     script:RPCCPack]     ▒     -(.g$$$$$$$b.              .'
+[     script:RPCCPack]     ▒       ""^^T$$$P^)            .(:
+[     script:RPCCPack]     ▒         _/  -"  /.'         /:/;
+[     script:RPCCPack]     ▒      ._.'-'`-'  ")/         /;/;
+[     script:RPCCPack]     ▒   `-.-"..--""   " /         /  ;
+[     script:RPCCPack]     ▒  .-" ..--""        -'          :
+[     script:RPCCPack]     ▒  ..--""--.-"         (\      .-(\
+[     script:RPCCPack]     ▒    ..--""              `-\(\/;`
+[     script:RPCCPack]     ▒      _.                      :
+[     script:RPCCPack]     ▒                              ;`-
+[     script:RPCCPack]     ▒                             :\
+[     script:RPCCPack]     ▒                             ; 
+[     script:RPCCPack]     ▒  
+[     script:RPCCPack]     ▒     Created by SenkaWolf
+[     script:RPCCPack]     ▒
+[     script:RPCCPack]     ▒    Current Version: 2.3.1
+[     script:RPCCPack]     ▒    Latest Version: 2.3.1
+[     script:RPCCPack] 
+[     script:RPCCPack]   ▒
+[     script:RPCCPack]     ▒    Your SenkaWolf-RPCCPack is outdated, go to https://github.com/SenkaWolf/FiveM-Standalone-RP-Chat-Command-Basic-Pack/releases to get the latest version.
+[     script:RPCCPack]   ▒▒
+[     script:RPCCPack] 
