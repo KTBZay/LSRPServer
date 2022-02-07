@@ -17,6 +17,6 @@
     4. Edit with notepad
     5. Replace node Site.config.js with node ../DBIC/site.config.js
     6. save and run WebCreator.starter.cmd
-    7.after projects folder and Discord-Assets where installed edit the WebCreator.starter.cmd once more time
+    7. after projects folder and Discord-Assets where installed edit the WebCreator.starter.cmd once more time
     8. Replace node ../DBIC/site.config.js with node Site.config.js to create a template.
 
