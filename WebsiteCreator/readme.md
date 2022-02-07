@@ -1,8 +1,8 @@
 # LSRP - Website Creator
  - Version: 1.0.1.
  - Features
-    [1] Added a template creator.
-    [2] Added a discord bot website creator. (css/js only)
+    1. Added a template creator.
+    2. Added a discord bot website creator. (css/js only)
 
 # How to use?
 
