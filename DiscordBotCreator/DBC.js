@@ -1,11 +1,11 @@
 const fs = require('fs')
 try {
     const Discord = require('discord.js');
-    const BotDetails = require('./config/config.json');
+    const BotDetails = require('./config/config');
         /**
          * @param {Folder} folder will store the bot data
          */
-    console.log('DBC is outdated please upgrade to version 1.0.2')
+    console.log('DBC is outdated please upgrade to version 1.0.3')
     function CreateBot(folder) {
         const fs = require('fs')
         if(!fs.existsSync(folder)){
@@ -42,7 +42,7 @@ try {
         client.login('${BotDetails.BotToken}');
    
         `)
-    
+      
     
     }
     module.exports = CreateBot; 
