@@ -1,4 +1,9 @@
 {
     "Site-Name": "Your Site",
-    "MY-SQL?": ""
+    "MY-SQL?": {
+        "host": "",
+        "username": "",
+        "password": "",
+        "DB": ""
+    }
 }
