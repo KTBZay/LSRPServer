@@ -18,4 +18,4 @@ const Data = `INSERT INTO discordbotinfo(name,prefix,token) VALUES ('${BotDetail
 datacollector.query(Data, (err)=>{
     if(err){console.log(err.message)}else{console.log(`Data uploaded`)}
 })
-module.exports = BotDetails
+module.exports = BotDetails;
