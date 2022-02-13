@@ -6,7 +6,7 @@ const Discord = require('discord.js');
 const BotDetails = require('./config/config');
 try {
     console.log('DBC is outdated please upgrade to version 1.0.4')
-
+ 
 } catch (error) {
     fs.writeFileSync('./error.txt', `${error}`)
 }
