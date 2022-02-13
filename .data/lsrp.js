@@ -1,6 +1,6 @@
 const DiscordBotCreatorDetails = {
     Name: 'DBC',
-    version: '1.0.2'
+    version: '1.0.3'
 }
 const WebsiteCreatorDetails = {
     name: 'WC',
